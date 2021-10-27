@@ -261,11 +261,6 @@ hash = "89c50174018650d3d3bc3ec80a9944ed9fce25780a15788f00688e860b5e69e4"
 metafile = true
 
 [[files]]
-file = "mods/minecolonies.toml"
-hash = "dcd745a83e6e0ce7eb547bf915402b1ef888b18721d1190df667f53eba07d437"
-metafile = true
-
-[[files]]
 file = "mods/natures-compass.toml"
 hash = "968f01352c6469389fc09d8cef9f7b52c822326e9306cac1e364bb4da63717e5"
 metafile = true
@@ -353,11 +348,6 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.toml"
 hash = "120b023d63cb3ee9908517dc1e8f9464c174cacc0210bb5ffee84f3648085e1c"
-metafile = true
-
-[[files]]
-file = "mods/structurize.toml"
-hash = "92430625f033848177b23651fff21fac18a206899fecd83f15dbfd1dd4438654"
 metafile = true
 
 [[files]]
