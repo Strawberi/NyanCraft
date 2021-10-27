@@ -6,6 +6,11 @@ hash = "36fd4d9756243968ede9dcf5d85e3e0c3b1353389eeabfe173cae13be70327ff"
 metafile = true
 
 [[files]]
+file = "mods/alexs-mobs.toml"
+hash = "888a70775ec92da38f0e16aaf38eb8d257fd98ee2e97582faa43beae67cb2a96"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.toml"
 hash = "8a57ad6032e0f467e539bb43de5294edcc2e1ec799bcd5ce612f734ff4120569"
 metafile = true
@@ -68,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/citadel.toml"
 hash = "4d6bdb8ba11e4533ed710587fc66679ba3b740296746593d218846b8b7f95a2c"
+metafile = true
+
+[[files]]
+file = "mods/controlling.toml"
+hash = "ae9af06325b442006bff5cfd58c73ead5170631400e7a604fda7c2c39ea6e6e6"
 metafile = true
 
 [[files]]
@@ -178,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-portals-for-forge.toml"
 hash = "e8a525729e695f806fbe8c5febb774ea30de8ab7c9fcfe9c7be45319dd2ef83d"
+metafile = true
+
+[[files]]
+file = "mods/infernal-expansion.toml"
+hash = "65241f233d72d15abb2604ddbe57586ec033354e32b3eb3eb4c5395e7c3989b7"
 metafile = true
 
 [[files]]
@@ -296,6 +311,11 @@ hash = "4f5b37c235a7b6b8ff54800cc22220647f5c8430dcf8df240483e8bde3837f5f"
 metafile = true
 
 [[files]]
+file = "mods/rawore.toml"
+hash = "384c2d41000d89af8dbc6b004fc27a0a3f6e76b2863658b2c50c66c994fc281d"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures.toml"
 hash = "06603c88fbc80e5c519d1a4f076704db58ed2a394b7508e88b39fec1e46eb2b7"
 metafile = true
@@ -358,6 +378,11 @@ metafile = true
 [[files]]
 file = "mods/the-one-probe.toml"
 hash = "523bb49c4aa144e8e854533968725d75953591c86b57e4542abb45459d669527"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.toml"
+hash = "06b95c31df26a4b15f96eded5b4764528ba254a5ca0d58c8900867ef1e7c5901"
 metafile = true
 
 [[files]]
