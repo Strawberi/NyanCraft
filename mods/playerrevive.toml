@@ -1,0 +1,14 @@
+name = "PlayerRevive"
+filename = "PlayerRevive_v2.0.0-pre04_mc1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3419/960/PlayerRevive_v2.0.0-pre04_mc1.16.5.jar"
+hash-format = "murmur2"
+hash = "2434582509"
+
+[update]
+[update.curseforge]
+file-id = 3419960
+project-id = 266890
+release-channel = "beta"

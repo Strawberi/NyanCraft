@@ -1,0 +1,14 @@
+name = "Artifacts"
+filename = "Artifacts-1.16.5-2.10.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3485/700/Artifacts-1.16.5-2.10.3.jar"
+hash-format = "murmur2"
+hash = "2672758573"
+
+[update]
+[update.curseforge]
+file-id = 3485700
+project-id = 312353
+release-channel = "beta"

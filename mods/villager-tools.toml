@@ -1,0 +1,14 @@
+name = "Village Artifacts"
+filename = "villagertools-1.16.5-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3405/663/villagertools-1.16.5-1.0.1.jar"
+hash-format = "murmur2"
+hash = "3610643250"
+
+[update]
+[update.curseforge]
+file-id = 3405663
+project-id = 469301
+release-channel = "beta"

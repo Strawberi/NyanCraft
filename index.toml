@@ -1,1 +1,358 @@
 hash-format = "sha256"
+
+[[files]]
+file = ".git/COMMIT_EDITMSG"
+hash = "11996441588417a27af10cd7c5e6abdb570f18b1c00048fb39a2e0775279736c"
+
+[[files]]
+file = ".git/HEAD"
+hash = "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+
+[[files]]
+file = ".git/config"
+hash = "d8a6fa35014f0cbc92befcb127d71e352ee7b8777230e86a10d4c1b035903990"
+
+[[files]]
+file = ".git/description"
+hash = "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+
+[[files]]
+file = ".git/hooks/applypatch-msg.sample"
+hash = "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+
+[[files]]
+file = ".git/hooks/commit-msg.sample"
+hash = "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+
+[[files]]
+file = ".git/hooks/fsmonitor-watchman.sample"
+hash = "f3c0228d8e827f1c5260ac59fdd92c3d425c46e54711ef713c5a54ae0a4db2b4"
+
+[[files]]
+file = ".git/hooks/post-update.sample"
+hash = "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+
+[[files]]
+file = ".git/hooks/pre-applypatch.sample"
+hash = "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+
+[[files]]
+file = ".git/hooks/pre-commit.sample"
+hash = "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+
+[[files]]
+file = ".git/hooks/pre-merge-commit.sample"
+hash = "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+
+[[files]]
+file = ".git/hooks/pre-push.sample"
+hash = "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+
+[[files]]
+file = ".git/hooks/pre-rebase.sample"
+hash = "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+
+[[files]]
+file = ".git/hooks/pre-receive.sample"
+hash = "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+
+[[files]]
+file = ".git/hooks/prepare-commit-msg.sample"
+hash = "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+
+[[files]]
+file = ".git/hooks/push-to-checkout.sample"
+hash = "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+
+[[files]]
+file = ".git/hooks/update.sample"
+hash = "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+
+[[files]]
+file = ".git/index"
+hash = "4e3f64c4fe67b9f9524f2d3fc69dc9b33a97350bd20039253311cab51b9a593f"
+
+[[files]]
+file = ".git/info/exclude"
+hash = "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+
+[[files]]
+file = ".git/logs/HEAD"
+hash = "4f3e6dd56d2b994a227ea890bef22c2aa2c9bb90f7e547e354d9946f3ea9f978"
+
+[[files]]
+file = ".git/logs/refs/heads/master"
+hash = "4f3e6dd56d2b994a227ea890bef22c2aa2c9bb90f7e547e354d9946f3ea9f978"
+
+[[files]]
+file = ".git/logs/refs/remotes/origin/master"
+hash = "34b6a9b85cc17d8c6d25cd42306acc87b20825516b3b82fe65442f53ef38bb0c"
+
+[[files]]
+file = ".git/objects/08/9f0af3c563d4d76f9f204fa5f1e2e6c1256751"
+hash = "39ff93219c96d34e7b8c0c14ced6734286346444760cb92415ba527dabcb9c0c"
+
+[[files]]
+file = ".git/objects/3a/2eec33cfcb092b9afa24cc7752457b2b7cf38c"
+hash = "eebe053af9f682df2a77846fec08390675dcf6c37b1a889a36c8b3eb9c1d3db3"
+
+[[files]]
+file = ".git/objects/42/8f07fe7da7c334fdcc615c528e692ead1947a5"
+hash = "21c652e4ca7d7df09d0aed9a56d9a5e51dd0a4b710731338f74105676dd361bf"
+
+[[files]]
+file = ".git/objects/bd/be658048aaf8c4b1b22bd788fc0c21da378fa0"
+hash = "22bd3dba5869604b216afff0cbde5b8f079caf21aade7c19b53f6765e33af66f"
+
+[[files]]
+file = ".git/refs/heads/master"
+hash = "11f43e6fa925139712f2872bef555905b31cce0e4da049ca1ceb9feea18272a9"
+
+[[files]]
+file = ".git/refs/remotes/origin/master"
+hash = "11f43e6fa925139712f2872bef555905b31cce0e4da049ca1ceb9feea18272a9"
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "0e5929448f3105c10e8df986c97e9b1c2192cbcd6165c31c3fbcdd8103e3c9be"
+metafile = true
+
+[[files]]
+file = "mods/aquaculture.toml"
+hash = "d9b8afbf7b60aa20784d7bc9602aedb4fbe9f7e6fd0b48808bfd4f0234f5c2b7"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.toml"
+hash = "bab8fbf8b378a736f86250fdc5a3cc41dda856d6baa7c7a4d8479050f8fed8ae"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.toml"
+hash = "fa15083f70367ef37a9a5b8e0b8dd430a649b4ee9cd261bcc537c45fbad73483"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.toml"
+hash = "ed2dbc59edaa7a59d44ec39b9f95cae4f0a345060442a9b698e59ed549924525"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.toml"
+hash = "5020f1205810a00873dbf656bf0d31970862838f5c58da0c8749a35c04afce20"
+metafile = true
+
+[[files]]
+file = "mods/cavebiomeapi.toml"
+hash = "a155f186b15edad3e8d840ff10532735c07b9929ea67d73900355509254f2bf2"
+metafile = true
+
+[[files]]
+file = "mods/champions.toml"
+hash = "25ee8ea01e103e99e84abaf4987aa214fbafa35998dceb4e7595715211272c1d"
+metafile = true
+
+[[files]]
+file = "mods/citadel.toml"
+hash = "4d6bdb8ba11e4533ed710587fc66679ba3b740296746593d218846b8b7f95a2c"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.toml"
+hash = "671fa21bbb57f2fedec916b4a7823987c771b8e3fccd11d268f6e5a1d0fb6c7e"
+metafile = true
+
+[[files]]
+file = "mods/curios.toml"
+hash = "6863c605825840c601d9c8aea1456c5dbbd613b9037e7b6fe26e256748cbadfb"
+metafile = true
+
+[[files]]
+file = "mods/darker-depths.toml"
+hash = "a4defe2248df3500876b5060bff65b7f37998d0cf2c3ee5634a6577f9c4cf3b3"
+metafile = true
+
+[[files]]
+file = "mods/dtbop.toml"
+hash = "967c7a3951d21bdc81007a76b944dbd081711c758c9c22d2a29521947fe8aeda"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-surroundings.toml"
+hash = "bec178fc627f1345e6cc953a92479b8da7f6a1acead61cad4509a08fd11ae220"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-trees-quark.toml"
+hash = "9a40ff3604bd0f0bdaa17ca6d8fd33c795be1219672cc748539cd8172a09f5b7"
+metafile = true
+
+[[files]]
+file = "mods/dynamictrees.toml"
+hash = "f35aa90434c555ade0042836ddaa68f6f25b8c9b94849f240d81a8caa283e8f8"
+metafile = true
+
+[[files]]
+file = "mods/expandability.toml"
+hash = "a65013f8be06bd0913735f26f2edf911c1bce024590bde959a0fec6fc78bf87b"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.toml"
+hash = "0c850300c22c1e37bfd12eef0a6a8266b2123a1a6c39cd8ab2b14b5e22fc34b0"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.toml"
+hash = "dc487f5c1bb8c6ef7b1962584456005f0536d055ddad42a938c23f4f1693f4d3"
+metafile = true
+
+[[files]]
+file = "mods/goblin-traders.toml"
+hash = "96863da0e0df6f86bb3fa837964060f3a2adb505f1f0d717d7929757982341b4"
+metafile = true
+
+[[files]]
+file = "mods/guard-villagers.toml"
+hash = "391077f7cce076760add2e8966a14dc0108b242c7948fb65e9c3621fbc817cbb"
+metafile = true
+
+[[files]]
+file = "mods/ice-and-fire-dragons.toml"
+hash = "dc748103c8da0a9f1005c86089ce1ff741c4665fd63f014c331a534c21951baf"
+metafile = true
+
+[[files]]
+file = "mods/immersive-cooking.toml"
+hash = "26dbfa9039c2e49f32cf58baded97d78f57f72037184ebe40477b8c6232018f4"
+metafile = true
+
+[[files]]
+file = "mods/immersive-portals-for-forge.toml"
+hash = "e8a525729e695f806fbe8c5febb774ea30de8ab7c9fcfe9c7be45319dd2ef83d"
+metafile = true
+
+[[files]]
+file = "mods/kobolds.toml"
+hash = "d12e38661fcabca61dd1ddf7489f391768a9cd1d0cbcb6776729e8b60b7f49c0"
+metafile = true
+
+[[files]]
+file = "mods/levelhearts.toml"
+hash = "2fef0135d8c9fe4f35b07d5d54e6eb8e1e1d6f6ebe7eb23497abd36c8b08c8b7"
+metafile = true
+
+[[files]]
+file = "mods/lootr.toml"
+hash = "640fbe803e1d2721e204523a414cb7ee06a2a132de87e8ea8c7a6e358f29986a"
+metafile = true
+
+[[files]]
+file = "mods/mimic-mod.toml"
+hash = "89c50174018650d3d3bc3ec80a9944ed9fce25780a15788f00688e860b5e69e4"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies.toml"
+hash = "dcd745a83e6e0ce7eb547bf915402b1ef888b18721d1190df667f53eba07d437"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.toml"
+hash = "1bda7dbf2a15134727be5c4c9b886d68ed7f383bbbe39e2ce2dac78103f0cbac"
+metafile = true
+
+[[files]]
+file = "mods/playerrevive.toml"
+hash = "4b07064119f07556d2f396fd9975f23641cc12e725bb24198dce923bb61d5a18"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.toml"
+hash = "1011ba5c105306e0e47bf9a112ae8ff0edc8018729c91d80f97cb06b682200c3"
+metafile = true
+
+[[files]]
+file = "mods/quark.toml"
+hash = "4f5b37c235a7b6b8ff54800cc22220647f5c8430dcf8df240483e8bde3837f5f"
+metafile = true
+
+[[files]]
+file = "mods/spiders-2-0.toml"
+hash = "ddf4db7193acd423ee46a7972bf83919e22ee8f55b0a9ef85383309ef38d27a6"
+metafile = true
+
+[[files]]
+file = "mods/structurize.toml"
+hash = "92430625f033848177b23651fff21fac18a206899fecd83f15dbfd1dd4438654"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.toml"
+hash = "3715f197d940e57e58021417887fbf655bbdc055a76caa6ff492b126b91161eb"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.toml"
+hash = "8020bf1a068acec197d3fb1d47e287dacd70c7c74db00b1d3beb30e7938d2083"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-core.toml"
+hash = "e83daabe10b271fa67aea098f034ce2c83162c6f00602f4b25c34b8a5bab4083"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-structures.toml"
+hash = "fe61e0325e4d5241bdabc9df36b11c1a737fe73696ba67325ffc339919fb1aea"
+metafile = true
+
+[[files]]
+file = "mods/villager-tools.toml"
+hash = "b335368bdcc584255917c363cb30317da09db722959679c275d48d1bb9b42567"
+metafile = true
+
+[[files]]
+file = "mods/waystones.toml"
+hash = "9cde9b084af72145d64ce1e0f3d690b9444badcff68335db7980053677b07c46"
+metafile = true
+
+[[files]]
+file = "mods/wormhole-portals.toml"
+hash = "7d47a23988c0d78a57579e0db7fa1e4af1ecd0f83bbffbb68cfc872139cc0e40"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.toml"
+hash = "75b4aac5872f656c0d6337d909842bf92cff134727af28d8a9366759b37e3180"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-caves.toml"
+hash = "e9844fd41a8d2878df4f0a7f2bc4776f08f419f3015613589f94aa211d14aae7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.toml"
+hash = "f7ddf5fa22429ab0bd4b66c792117bf7cfb786289b018dafb97c75ce68b6b4b5"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-forge.toml"
+hash = "07998888e7314292d0aa0352ebc703b5aa7e8d1f37f4f51fc6c1b5284b4ec085"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.toml"
+hash = "7d62779a3f1f5bc5b4c7a44e6bac539b7527cdec9aa95593a23479cbe3628c7a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.toml"
+hash = "83ee5d215a1b1f5c7e54a19aaa4a23a5af3ffeaf17cbaf660c20c7163f72be16"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.toml"
+hash = "c30bbead295e71357875114b48a7d17c9ecf819419c03978db1ed4b311cba886"
+metafile = true
