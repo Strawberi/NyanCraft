@@ -406,11 +406,6 @@ hash = "9cde9b084af72145d64ce1e0f3d690b9444badcff68335db7980053677b07c46"
 metafile = true
 
 [[files]]
-file = "mods/wormhole-portals.toml"
-hash = "7d47a23988c0d78a57579e0db7fa1e4af1ecd0f83bbffbb68cfc872139cc0e40"
-metafile = true
-
-[[files]]
 file = "mods/yungs-api.toml"
 hash = "75b4aac5872f656c0d6337d909842bf92cff134727af28d8a9366759b37e3180"
 metafile = true
